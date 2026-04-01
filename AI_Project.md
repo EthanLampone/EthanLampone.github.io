@@ -1,3 +1,3 @@
 layout: page
 title: "AI Project"
-permalink: /pages
+permalink: /AI_Project/
