@@ -1,3 +1,7 @@
+# Personal Info
+**Name**: {{ site.name }}
+**Email**: {{ site.email }}
+
 # School Project Content Page
 
 ## AI Hospital Robot Project (Saint Joseph's University XLST Artificial Intelligence) <br>
