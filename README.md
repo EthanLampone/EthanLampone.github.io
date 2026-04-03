@@ -1,6 +1,6 @@
 # Personal Info
-**Name**: {{ site.name }}
-**Email**: {{ site.email }}
+**Name**: {{ site.name }} <br>
+**Email**: {{ site.email }} <br>
 
 # School Project Content Page
 
