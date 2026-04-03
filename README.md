@@ -2,7 +2,7 @@
 This project was done in university by myself and a couple of classmates, who all worked together and revised every aspect of the project.
 Below are the two major parts of the project that were done to both begin the project and what was eventually carried out once a plan was created.
 
-The link to view everything within the project can be found here: https://github.com/EthanLampone/AI-CLASS-FALL-2025.git <br>
+The link to view everything within the project can be found here: https://github.com/SJUCS/ai-final-project-team7.git <br>
 I will go over everything that was done to complete this project, and where you can find everything in the repository!
 
 **P.S.** This is not a very visual project, as it was done by 3 Data Science majors, who know coding for both Data Visualization, Analytics, and Machine Learning. Therefore, there are not a lot of fancy GUI's or intricate ways to update the GUI that we were able to build.
