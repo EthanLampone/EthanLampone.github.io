@@ -1,9 +1,11 @@
-# CONTENT PAGE
+# Project Content Page
+
+Below are a few projects I did in university to gain experience in AI, Machine Learning, and BIA.
 
 ## AI Hospital Robot Project (Saint Joseph's University XLST Artificial Intelligence) <br>
 This project was done with multiple other groupmates, but was completed evenly between each one of us. <br>
 The overall goal of this project was to make an AI Robot that would use one of two pathfinding algorithms to traverse a hospital floor and 
-visit a certain number of rooms in which it is tasked with based on the priority of each room. To view this project, click this link: **INSERT LINK**<br>
+visit a certain number of rooms in which it is tasked with based on the priority of each room. To view this project, click this link: https://ethanlampone.github.io/projects/ai_bot <br>
 
 ## Machine Learning Project (Saint Joseph's University DSC 326 Advanced Data Science)
 This project tasked me with gathering real-world data and using a variety of machine learning algorithms, either for regression and classification, 
