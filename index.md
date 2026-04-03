@@ -1,8 +1,8 @@
 # Personal Info
 **Name**: {{ site.name }} <br>
 **Email**: {{ site.email }} <br>
-**GitHub Username**: {{ site.github_username }}
-**LinkedIn**: {{ site.LinkedIn }}
+**GitHub Username**: {{ site.github_username }} <br>
+**LinkedIn**: {{ site.LinkedIn }} <br>
 
 # School Project Content Page
 ## AI Hospital Robot Project (Saint Joseph's University XLST Artificial Intelligence) <br>
@@ -11,8 +11,8 @@ The overall goal of this project was to make an AI Robot that would use one of t
 visit a certain number of rooms in which it is tasked with based on the priority of each room. 
 
 ## Used In Project:
-  - Coding: Visual Code, Python, GitHub, GUI
-  - A.I: Path Finding (A*/Dijkstra)
+  - Coding: Visual Code, Python, GitHub, GUI <br>
+  - A.I: Path Finding (A*/Dijkstra) <br>
 
 To view this project, click this link: https://ethanlampone.github.io/projects/ai_bot <br>
 
@@ -22,8 +22,8 @@ to perform comprehensive analysis on whichever data set is used. This project wa
 allowed me to use more algorithms and a lot more different results. <br>
 
 ## Used In Project:
-  - Coding: Google Colab, Python, NumPy, Pandas, SciKit-Learn
-  - Data: Kaggle
+  - Coding: Google Colab, Python, NumPy, Pandas, SciKit-Learn <br>
+  - Data: Kaggle <br>
 
 To go to the page for this project click this link: https://ethanlampone.github.io/projects/ml_project <br>
 
