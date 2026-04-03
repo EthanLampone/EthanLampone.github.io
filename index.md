@@ -14,7 +14,7 @@ visit a certain number of rooms in which it is tasked with based on the priority
   - Coding: Visual Code, Python, GitHub, GUI <br>
   - A.I: Path Finding (A*/Dijkstra) <br>
 
-To view this project, click this link: https://ethanlampone.github.io/projects/ai_bot <br>
+To view this project, click this link: [AI PROJECT LINK](https://ethanlampone.github.io/projects/ai_bot) <br>
 
 ## Machine Learning Project (Saint Joseph's University DSC 326 Advanced Data Science)
 This project tasked me with gathering real-world data and using a variety of machine learning algorithms, either for regression and classification, 
@@ -25,11 +25,11 @@ allowed me to use more algorithms and a lot more different results. <br>
   - Coding: Google Colab, Python, NumPy, Pandas, SciKit-Learn <br>
   - Data: Kaggle <br>
 
-To go to the page for this project click this link: https://ethanlampone.github.io/projects/ml_project <br>
+To go to the page for this project click this link: [MACHINE LEARNING PROJECT](https://ethanlampone.github.io/projects/ml_project) <br>
 
 ## BIA Project (Tableau) (Saint Joseph's University DSS 420 Introduction to Data Mining & DSS 416 Data Wrangling: Ethics Int.)
 In a couple of my Business Intelligence and Analytics classes, I had the chance to work with some real-world orginizations and even look into some independently chosen real-world
 data myself in which I cleaned the data, crafted multiple interactive dashboards, and present my keen findings to those who are non-technical or are unfamiliar with the subject in which the
 data was pulled from. <br>
 
-To go to the page for this project click this link: **INSERT LINK** <br>
+To go to the page for this project click this link: [TABLEAU LINK](https://ethanlampone.github.io/projects/bia_projects) <br>
