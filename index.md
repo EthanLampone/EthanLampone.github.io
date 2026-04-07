@@ -4,7 +4,20 @@
 **GitHub Username**: {{ site.github_username }} <br>
 **LinkedIn**: {{ site.LinkedIn }} <br>
 
-# School Project Content Page
+# Individual Project's Content Page
+Below are some individual projects that I tackled outside of unviersity and on my own time.
+## Baseball Continuous API Call -> Dashboard
+This is a project I wanted to do for awhile. I wanted to be able to make a file, or files, that call an API that generates loads of baseball data every day. This can be any kind of data.
+I then want to be able to take that data an update a recurring dashboard of anything I want, could be homeruns to pitch speeds. The differene between having a set size of data is that this project will utilize calling an API daily and uploading the dashboard with the newly called data, alongside the data already grabbed. <br>
+
+## Used In Project:
+  - Coding: Python, Visual Code, GitHub
+  - Visualize: Tableau
+
+To view this project description, click this link: [BASEBALL_RPOJECT](LINK) <br>
+
+# School Project's Content Page
+Explained below are a couple of school projects I worked on in university. <br>
 ## AI Hospital Robot Project (Saint Joseph's University XLST Artificial Intelligence) <br>
 This project was done with multiple other groupmates, but was completed evenly between each one of us. <br>
 The overall goal of this project was to make an AI Robot that would use one of two pathfinding algorithms to traverse a hospital floor and 
@@ -29,7 +42,10 @@ To go to the page for this project click this link: [MACHINE LEARNING PROJECT](h
 
 ## BIA Project (Tableau) (Saint Joseph's University DSS 420 Introduction to Data Mining & DSS 416 Data Wrangling: Ethics Int.)
 In a couple of my Business Intelligence and Analytics classes, I had the chance to work with some real-world orginizations and even look into some independently chosen real-world
-data myself in which I cleaned the data, crafted multiple interactive dashboards, and present my keen findings to those who are non-technical or are unfamiliar with the subject in which the
-data was pulled from. <br>
+data myself in which I cleaned the data, crafted multiple interactive dashboards, and present my keen findings to those who are non-technical or are unfamiliar with the subject in which the data was pulled from. <br>
+
+## Used In Project:
+  - Cleaning Data: Alteryx, Excel
+  - Visualizing Data: Tableau, JMP
 
 To go to the page for this project click this link: [TABLEAU LINK](https://ethanlampone.github.io/projects/bia_projects) <br>
