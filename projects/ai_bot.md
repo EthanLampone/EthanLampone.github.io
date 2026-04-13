@@ -2,10 +2,9 @@ To view the entire GitHub Repository for this project, click this link: [FULL AI
 
 # AI Hospital Robot (Saint Joseph's University: CSC 362 Artificial Intelligence)
 This project was completed with the help of a couple classmates and presented towards the end of the semester. Everyone attributed equally to the completion and testing/coding of the project. <br>
+<br>
 The project was divided into three phases: <br>
-  1. Planning Phase - this is where we decidied what the hospital layout was going to be like, where the rooms were going to be located, and what each room's priority was going to be. Each'
-room is assigned a priority in which the robot will go to the highest priority room first, then the next highest, etc. We also needed to find ways the robot "failed", so that it wouldn't
-move without knowing where it needed to go or if it was missing an inputted algorithm.
+  1. Planning Phase - this is where we decidied what the hospital layout was going to be like, where the rooms were going to be located, and what each room's priority was going to be. Each room is assigned a priority in which the robot will go to the highest priority room first, then the next highest, etc. We also needed to find ways the robot "failed", so that it wouldn't move without knowing where it needed to go or if it was missing an inputted algorithm.
   2. Coding/Creating Phase - this is where we took on the physical aspects of the project, such as creating/cloning our repository into VisualCode, making the files, and coding everything.
   3. Testing - this last phase is very small, but this is where we tested everything to see if what we wanted to present worked. We troubleshooted along the way too.
 
@@ -31,8 +30,32 @@ The priorities, coordinates, and colors for each ward are below (they are both d
 </div>
 
 ## 2. Creation Phase
-Now that we have everything ready within the planning phase, we can go about creating the different files to both run the robot and bring up the GUI. First will be hte GUI to see of we can bring up the maze for visuals. <br>
-One of my groupmates, Paul, took on the task of creating the file/code to create the GUI and visualize it. 
+Now that we have everything ready within the planning phase, we can go about creating the different files to both run the robot and bring up the GUI. But First will be the GUI to see of we can bring up the maze for visuals. <br>
+One of my groupmates, Paul, took on the task of creating the file/code to create the GUI and visualize it. For this, he needed to do a couple of things: <br>
+<br>
+  1. We needed to read in the maze from the file in which it was created.
+  2. Create a new file and functions to read in the maze and input files.
+  3. Import a class to create a GUI with the selected maze of choice.
+
+A snippet of code is below: <br>
+<div style:"display": flex; gap px10;">
+
+```
+      def run_maze():
+        # setting the root and title
+        root = tk.Tk()
+        root.title("Maze Visualization")
+
+        # running the maze
+        app = maze_class(root, maze_class.maze_data)
+        root.bind("<KeyPress>", app.move_agent)
+        root.bind("q", app.close_gui)
+
+        root.mainloop()
+```
+Ths is the main code that runs, but you can see from this that Paul used **import Tkinter as Tk**, which is a common package used for creating GUI's. If you wish to see the rest of Paul's code, just so I don't overpopulate this page with the code, click [here](https://github.com/SJUCS/ai-final-project-team7/blob/main/src/display.py) <br>
+<br>
+With the GUI code now in place, we can implement the code needed for 
 
 
 
